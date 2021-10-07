@@ -10,7 +10,7 @@ You'll have the best head start if you read this file in its entirety, but pleas
 
 This repo is in no way connected to our current workings at YunoJuno, and exists solely for the team to assess your technical understanding of front-end technologies, and how to use them. 
 
-## 🛠 Tools
+## 👋 Introduction
 
 The app was prepared using `react-create-app`. You can run the app using `npm start` or `yarn start`, which will compile the JS and start a local server. 
 
