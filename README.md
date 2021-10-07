@@ -69,8 +69,3 @@ NB: We will never use your submission in any way other than for this interview p
 accessible to the web so please take that into account, and if you require
 the extra anonymity - please register a throwaway GitHub account instead of
 using your actual GitHub account.
-
-
-When you want to submit, simply open a pull request, and we will review it.
-
-If you aren't comfortable with submitting via a public pull request, please send us a zip file with your submission code instead. 
